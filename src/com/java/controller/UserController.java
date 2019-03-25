@@ -30,4 +30,8 @@ public class UserController {
 			return "redirect:/success.jsp";
 		}
 	}
+
+	@RequestMapping("hhjhj")
+	public void main(){}
+
 }
